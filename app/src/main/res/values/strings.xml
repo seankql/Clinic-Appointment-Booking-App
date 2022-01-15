@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">B07 project</string>
+    <string name="button_patient">Patient</string>
+    <string name="Login">Log in</string>
+    <string name="button_doctor">Doctor</string>
+    <string name="Name">Name</string>
+    <string name="Gender">Gender</string>
+    <string name="DateOfBirth">Date of Birth</string>
+    <string name="edit_name">Enter your name</string>
+    <string name="edit_gender">Enter your gender</string>
+    <string name="edit_dateOfBirth">YYYY/MM/DD</string>
+    <string name="crete_user">Create</string>
+    <string name="account_exists">I have an account</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="error_message">Username taken!</string>
+    <string name="my_appointments">My Appointments:</string>
+    <string name="book_appointment">Book Appointment</string>
+    <string name="view_appointments_button">View Appointments</string>
+    <string name="create_appointment_button">Create Appointment</string>
+    <string name="edit_specialization">Enter your specialization</string>'
+    <string name="specialization">Specialization</string>
+    <string name="edit_password">Enter your password</string>
+    <string name="edit_username">Enter your username</string>
+    <string name="PreviousDoctors">Previously Visited Doctors</string>
+    <string name="View_Previous_Doctors">Tap On Appointment For More Info</string>
+    <string name="back">Back</string>
+</resources>
